@@ -1,4 +1,4 @@
-#This code was done by Shubham Mhaske
+#This code was done by Shubham Mhaske .
 def find_maximum(a, b, c):
     """This function finds the maximum of three numbers."""
     return max(a, b, c)
